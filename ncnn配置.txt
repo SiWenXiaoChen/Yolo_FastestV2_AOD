@@ -1,0 +1,27 @@
+http://101.34.95.10:8081/linux_tutorial
+翻墙步骤
+
+https://www.cnblogs.com/ChangciWei/p/15142851.html
+编译opencv
+
+https://blog.csdn.net/PecoHe/article/details/97476135
+解决找不到opencv.pc文件
+
+https://cloud.tencent.com/developer/article/1670567
+安装protobuf==2.6.1
+
+https://blog.csdn.net/weixin_43096365/article/details/123027424?spm=1005.2026.3001.5635&utm_medium=distribute.pc_relevant_ask_down.none-task-blog-2~default~OPENSEARCH~Rate-2.pc_feed_download_top3ask&depth_1-utm_source=distribute.pc_relevant_ask_down.none-task-blog-2~default~OPENSEARCH~Rate-2.pc_feed_download_top3ask
+编译ncnn
+
+#执行sh build.sh时候出现did you mean -fopenmp？
+sed -i 's/\r$//' build.sh
+
+sh build.sh
+
+https://blog.csdn.net/weixin_41868104/article/details/117034709
+代码加速
+
+
+解决问题：
+RuntimeError: Error(s) in loading state_dict for Model: Missing key(s) in state_dict
+https://blog.csdn.net/binbinczsohu/article/details/107943806
